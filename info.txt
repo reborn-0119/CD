@@ -1,0 +1,12 @@
+1. No. of lines and characters
+2. No. of vowels and consonants
+3. Caesar Cipher
+4. Longest Word
+5. Distinguish btw keywords, integers, floats, identifiers....
+6. No. of words, characters, blank spaces..
+7. input abcd , output - abcd   abc   ab   a
+8. Arithmatic Expression
+9. Validity of expression, starts with letter then digit
+10. Evaluate expressions
+11. Recognize anbn n>=1
+12. Recognize anbn n>=10 output valid/invalid
